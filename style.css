@@ -1,0 +1,18 @@
+
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+
+}
+
+h1{
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+    margin-left: 50px;
+    
+}
