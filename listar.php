@@ -27,7 +27,7 @@ if($qtde >0){
 }while($row = $res->fetch_object()){
     
     print("<tr>");
-    print("<td>".$row->$cod."</td>");
+    print("<td>".$row->$codigo."</td>");
     print("<td>".$row->$nome."</td>");
     print("<td>".$row->$senha."</td>");
     print("<td>".$row->$email."</td>");
