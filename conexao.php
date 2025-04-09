@@ -5,6 +5,7 @@ define ('USER','root');
 define ('PASS','');
 define ('BASE','cadastro');
 
-$conn = new mysqli(HOST, USER, PASS, BASE, 3306);
+$conn = new mysqli(HOST, USER, PASS, BASE, 3307);
+
 
 ?>
