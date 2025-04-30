@@ -34,6 +34,8 @@ while($row = $res->fetch_object()){
     print"<td>".$row ->email."</td>";
     print"<td>".$row ->cpf."</td>";
     print"<td>".$row ->data."</td>";
+
+    
     print "</tr>"; 
 }
     print"</table>";}
